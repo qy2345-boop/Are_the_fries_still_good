@@ -1,0 +1,22 @@
+{
+  "downloadedAt": {
+    "timestamp_osm_base": "2026-07-24T11:04:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "layers": {
+    "campus": 2,
+    "road": 20567,
+    "water": 340,
+    "green": 2258,
+    "urban": 1598,
+    "building": 4358
+  },
+  "roadClasses": {
+    "secondary": 5326,
+    "local": 11104,
+    "arterial": 1619,
+    "major": 1203,
+    "campus-road": 1315
+  },
+  "csvSha256": "65050dd8f54c49bab2baff90d621dceb3ac1ced37749856935535c8a822bc857"
+}

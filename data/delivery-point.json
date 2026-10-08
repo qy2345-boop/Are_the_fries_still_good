@@ -1,0 +1,16 @@
+{
+  "label": "Huaqing Jiayuan community reference",
+  "source": "https://www.amap.com/place/B000A835NS",
+  "sourceCoordinateSystem": "GCJ-02",
+  "sourceCoordinates": [
+    39.992347,
+    116.333755
+  ],
+  "mapCoordinateSystem": "WGS84",
+  "mapCoordinates": [
+    39.99103302899507,
+    116.32761154118369
+  ],
+  "osmCommunity": "https://www.openstreetmap.org/way/473654608",
+  "limitation": "Community reference retained from V15; exact dataset collection doorstep is not documented."
+}

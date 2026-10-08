@@ -1,0 +1,10 @@
+[out:json][timeout:180];
+(
+ way[highway](39.910,116.250,40.078,116.447);
+ way[landuse~"grass|forest|recreation_ground|residential|commercial"](39.910,116.250,40.078,116.447);
+ way[leisure~"park|garden|recreation_ground"](39.910,116.250,40.078,116.447);
+ way[natural~"wood|water|grassland"](39.910,116.250,40.078,116.447);
+ way[building](39.975,116.288,40.025,116.355);
+ nwr[amenity=university][name~"北京大学|清华大学"](39.975,116.288,40.025,116.355);
+ nwr[name~"华清嘉园"](39.98,116.32,40.00,116.35);
+);out geom;
